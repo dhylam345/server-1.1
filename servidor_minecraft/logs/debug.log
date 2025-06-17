@@ -795,3 +795,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Jun2025 17:18:06.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: prueba<--[HERE]
 [17Jun2025 17:18:24.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set mps365's game mode to Creative Mode
 [17Jun2025 17:18:24.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pacomerla7> meteos en juderia q hay mucha gente y no escucho diselo a dyland
+[17Jun2025 17:19:26.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 17:19:26.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 17:21:54.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mps365 lost connection: Disconnected
+[17Jun2025 17:21:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mps365 left the game
+[17Jun2025 17:21:54.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked mps365: Kicked by an operator
+[17Jun2025 17:21:54.680] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jun2025 17:21:58.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/1036, l='ServerLevel[world]', x=-489.51, y=67.56, z=-196.79] died, message: 'Mason blew up'
+[17Jun2025 17:22:24.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pacomerla7 lost connection: Disconnected
+[17Jun2025 17:22:24.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pacomerla7 left the game
+[17Jun2025 17:24:26.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 17:24:26.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
