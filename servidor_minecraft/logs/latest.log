@@ -42,3 +42,5 @@
 [17Jun2025 20:03:21.192] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4655 ms
 [17Jun2025 20:03:21.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.591s)! For help, type "help"
 [17Jun2025 20:03:21.217] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Jun2025 20:20:42.773] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4beb485f[id=<null>,name=dhylamteiro,properties={},legacy=false] (/127.134.203.235:60653) lost connection: Disconnected
+[17Jun2025 20:22:15.218] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4da78ca4[id=<null>,name=dhylamteiro,properties={},legacy=false] (/127.134.203.235:53957) lost connection: Disconnected
